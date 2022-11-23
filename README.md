@@ -17,3 +17,15 @@ Objects are boxed with rectangles, discribe by relative coordinates (relative to
 * Drink (soda can, juice can, water bottle...)
 * Cheese (yes, it's a french meal tray, what did you expect ?)
 
+
+## Valid/missing
+![](contents/dataviz_piechart.jpg)
+
+## Label distribution
+![](contents/dataviz_label_distribution.png)
+
+## Object distribution
+![](contents/dataviz_percentObj.png)
+![](contents/dataviz_percentObj2.png)
+
+
