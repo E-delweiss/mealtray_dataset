@@ -24,13 +24,23 @@ Objects are boxed with rectangles, discribe by relative coordinates (relative to
 
 
 ## Valid/missing
-![](contents/dataviz_piechart.png)
+<p align="center">
+  <img src="contents/dataviz_piechart.png?raw=true" alt="piechart" width="350"/>
+</p>
 
 ## Label distribution
-![](contents/dataviz_label_distribution.png)
+<p align="center">
+  <img src="contents/dataviz_label_distribution.png?raw=true" width="600"/>
+</p>
+
 
 ## Object distribution
-![](contents/dataviz_percentObj.png)
-![](contents/dataviz_percentObj2.png)
+<p align="center">
+  <img src="contents/dataviz_percentObj.png?raw=true" width="600"/>
+</p>
+<p align="center">
+  <img src="contents/dataviz_percentObj2.png?raw=true" width="600"/>
+</p>
+
 
 
