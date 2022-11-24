@@ -1,5 +1,10 @@
 # mealtray_dataset
-Photos took in the restaurant of my former compagny.\
+
+<p align="center">
+  <img src="contents/ex_img.png?raw=true" alt="img_ex" width="400"/>
+</p>
+
+Photos have been taken from the restaurant of my former compagny.\
 *Disclaimer: all the photos in my dataset are NOT under licence or NDA. They were given to me by the restaurant adminitration after a lawyer approval.*
 
 
@@ -19,7 +24,7 @@ Objects are boxed with rectangles, discribe by relative coordinates (relative to
 
 
 ## Valid/missing
-![](contents/dataviz_piechart.jpg)
+![](contents/dataviz_piechart.png)
 
 ## Label distribution
 ![](contents/dataviz_label_distribution.png)
