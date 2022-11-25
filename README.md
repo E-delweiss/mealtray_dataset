@@ -4,7 +4,7 @@
   <img src="contents/ex_img.png?raw=true" alt="img_ex" width="400"/>
 </p>
 
-Photos have been taken from the restaurant of my former compagny.\
+Photos have been taken from the restaurant of my former company.\
 *Disclaimer: all the photos in my dataset are NOT under licence or NDA. They were given to me by the restaurant adminitration after a lawyer approval.*
 
 
