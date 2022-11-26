@@ -12,7 +12,9 @@ Each photo contains a meal tray with various objects on it. Each photo was taken
 
 Each meal tray contains various objects that I labelised with www.cvat.org (www.cvat.ai now). Since the labelisation process is time-consumming, I labelised only about 480 images, feel free to increase this number!
 
-Objects are boxed with rectangles, discribe by relative coordinates (relative to the photo sizes). Each rectangle belongs to a specific class among 8 categories : 
+
+
+Objects are boxed with rectangles discribe by relative informations : coordinates of the box center, height and width. All are relative to the image size. Each rectangle belongs to a specific category among : 
 * Plate (the main dish)
 * Starter
 * Dessert
@@ -33,6 +35,10 @@ Objects are boxed with rectangles, discribe by relative coordinates (relative to
   <img src="contents/dataviz_label_distribution.png?raw=true" width="600"/>
 </p>
 
+<p align="center">
+  <img src="contents/dataviz_label_distribution_plot.png?raw=true" width="300"/>
+</p>
+
 
 ## Object distribution
 <p align="center">
@@ -42,5 +48,14 @@ Objects are boxed with rectangles, discribe by relative coordinates (relative to
   <img src="contents/dataviz_percentObj2.png?raw=true" width="600"/>
 </p>
 
+## Coordinates and size frequencies
+<p align="center">
+  <img src="contents/dataviz_XCfrequency.png?raw=true" width="300"/>
+  <img src="contents/dataviz_YCfrequency.png?raw=true" width="300"/>
+</p>
 
+<p align="center">
+  <img src="contents/dataviz_Hfrequency.png?raw=true" width="290"/>
+  <img src="contents/dataviz_Wfrequency.png?raw=true" width="290"/>
+</p>
 
